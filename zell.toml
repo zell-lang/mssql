@@ -1,0 +1,7 @@
+[package]
+name = "mssql"
+version = "0.0.1"
+namespace = "mssql"
+
+license = "MIT"
+description = "Microsoft SQL Server driver for zell-lang/db"
